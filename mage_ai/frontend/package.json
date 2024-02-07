@@ -61,7 +61,7 @@
     "react-hooks-global-state": "^2.0.0-rc.0",
     "react-loading": "^2.0.3",
     "react-markdown": "^8.0.7",
-    "react-query": "^2.10.0",
+    "react-query": "^3.39.3",
     "react-spring": "^9.4.5",
     "react-syntax-highlighter": "^15.5.0",
     "react-table": "^7.8.0",

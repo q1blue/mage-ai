@@ -114,3 +114,4 @@ dbt-snowflake==1.4.4
 dbt-spark==1.4.0
 dbt-sqlserver==1.4.3
 dbt-trino==1.4.0
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

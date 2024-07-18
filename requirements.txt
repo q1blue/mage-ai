@@ -105,7 +105,7 @@ stomp.py==8.1.0
 # DBT
 dbt-bigquery==1.4.3
 dbt-clickhouse==1.4.0
-dbt-core==1.4.8
+dbt-core==1.6.14
 dbt-dremio==1.5.0
 dbt-duckdb==1.4.2
 dbt-postgres==1.4.8

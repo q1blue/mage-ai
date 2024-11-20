@@ -42,3 +42,4 @@ tzlocal==4.2
 xlsx2csv==0.8.1
 xmltodict==0.13.0
 zenpy==2.0.25
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability

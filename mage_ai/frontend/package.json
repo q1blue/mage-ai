@@ -35,7 +35,7 @@
     "@visx/tooltip": "2.16.0",
     "@visx/voronoi": "2.10.0",
     "ansi-to-react": "^6.1.6",
-    "axios": "^0.27.2",
+    "axios": "^1.7.8",
     "cronstrue": "^2.31.0",
     "d3-color": "^3.1.0",
     "dangerously-set-html-content": "^1.0.13",

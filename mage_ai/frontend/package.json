@@ -47,7 +47,7 @@
     "moment-timezone": "^0.5.43",
     "monaco-editor": "^0.44.0",
     "monaco-themes": "^0.4.4",
-    "next": "12.3.4",
+    "next": "14.2.15",
     "next-cookies": "^2.0.3",
     "next-remove-imports": "^1.0.12",
     "react": "18.1.0",
